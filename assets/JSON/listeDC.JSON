@@ -1,0 +1,54 @@
+[{
+  "title" : "Soul Calibur",
+  "description" : "SoulCalibur est un jeu de combat développé par Namco sorti sur arcade en 1998, puis sur Dreamcast en 1999 à la sortie de la console. La version Dreamcast de SoulCalibur, encore plus impressionnante que la mouture arcade, est l'un des seuls jeux vidéo à avoir reçu la note parfaite sur IGN et sur GameSpot.",  
+  "fabricant" :  "Namco",
+  "console" : "Dreamcast",
+  "genre" : "Combat",
+  "date" : "00-00-1900",
+  "video" : "https://www.youtube.com/embed/STRfEYSkygs" 
+}, 
+{
+  "title" : "Toy Commander",
+  "description" : "Toy Commander est un jeu vidéo d'action développé par le studio lyonnais No Cliché et édité par Sega sorti en octobre 1999 sur Dreamcast. Une version PC fut également développée mais jamais commercialisée, et est encore aujourd'hui en possession de l'ancien studio.",
+  "fabricant" :  "No Cliché",
+  "console" : "Dreamcast",
+  "genre" : "Action Aventure",
+  "date" : "00-00-1900",
+  "video" : "https://www.youtube.com/embed/kaHDiu2-naU"
+},
+{
+  "title" : "Silver",
+  "description" : "Silver est un jeu vidéo de type action-RPG sur PC, Macintosh et sur Dreamcast.",
+  "fabricant" :  "Spiralhouse / Atari",
+  "console" : "Dreamcast",
+  "genre" : "RPG",
+  "date" : "31 août 1999",
+  "video" : "https://www.youtube.com/embed/jxxVJSphJqw"
+},
+{
+  "title" : "Crazy Taxi",
+  "description" : "Crazy Taxi est un jeu vidéo développé par Hitmaker et édité par Sega, sorti en arcade sur Naomi en 1999 et sur Dreamcast le 24 janvier 2000, puis par la suite édité sur PC, PlayStation 2 et GameCube. Le jeu a reçu le label Sega All Stars sur Dreamcast.",
+  "fabricant" :  "Sega",
+  "console" : "Dreamcast",
+  "genre" : "Course Arcade",
+  "date" : "1999",
+  "video" : "https://www.youtube.com/embed/W3GEK5q8yzM"
+},
+{
+  "title" : "Street Fighter III: 3rd Strike ",
+  "description" : "Street Fighter III: 3rd Strike - Fight for the Future est un jeu de combat en un contre un développé par Capcom Production Studio 2 et édité par Capcom sur CP System III en mai 1999. ",
+  "fabricant" :  "Capcom",
+  "console" : "Dreamcast",
+  "genre" : "Combat",
+  "date" : "12 mai 1999",
+  "video" : "https://www.youtube.com/embed/FCN7QBekjk8"
+}, 
+{
+  "title" : "Sonic Adventure",
+  "description" : "Sonic Adventure est un jeu vidéo de plates-formes développé par la Sonic Team et édité par Sega, sorti pour la première fois en 1998 sur Dreamcast, puis réédité sur les réseaux PlayStation Network et Xbox Live en 2010.",
+  "fabricant" : "Sega",
+  "console" : "Dreamcast",
+  "genre" : "Plateforme",
+  "date" : "00-00-1900",
+  "video" : "https://www.youtube.com/embed/aQyQA4lNej4"
+}]

@@ -1,0 +1,54 @@
+[{
+  "title" : "Nights into Dreams",
+  "description" : "Nights into Dreams, stylisé NiGHTS into Dreams..., est un jeu vidéo développé par la Sonic Team de Sega et sorti en 1996 sur Saturn.",  
+  "fabricant" :  "Sonic Team / Sega",
+  "console" : "Saturn",
+  "genre" : "Plateforme",
+  "date" : "1996",
+  "video" : "https://www.youtube.com/embed/-zPl8-TRuDU" 
+}, 
+{
+  "title" : "Samurai Shodown III",
+  "description" : "Samurai Shodown III: Blades of Blood connu au Japon sous le titre de Samurai Spirits: Zankurō Musōken, est un jeu vidéo de combat développé et édité par SNK en 1995 sur système d'arcade Neo-Geo MVS, sur console Neo-Geo AES et Neo-Geo CD.",  
+  "fabricant" :  "SNK",
+  "console" : "Saturn",
+  "genre" : "Combat",
+  "date" : "15 novembre 1995",
+  "video" : "https://www.youtube.com/embed/QlH4a_LW1cI" 
+},
+{
+  "title" : "Panzer Dragoon Saga",
+  "description" : "Panzer Dragoon Saga est un jeu vidéo de rôle sorti exclusivement sur Saturn en 1998. Le jeu a été développé par Team Andromeda et édité par Sega. Il fait partie de la franchise Panzer Dragoon, dont il représente le troisième et dernier volet sur Saturn. ",  
+  "fabricant" :  "Sega Sport",
+  "console" : "Saturn",
+  "genre" : "Shoot",
+  "date" : "29 janvier 1998",
+  "video" : "https://www.youtube.com/embed/sUrl56qWlLs" 
+},
+{
+  "title" : "X-Men vs. Street Fighter",
+  "description" : "X-Men vs. Street Fighter est un jeu de combat développé et édité par Capcom en septembre 1996 sur CP System II. Il s'agit du troisième jeu de Capcom à présenter des personnages provenant de l'univers Marvel Comics, juste après X-Men: Children of the Atom et Marvel Super Heroes.",  
+  "fabricant" :  "Capcom",
+  "console" : "Saturn",
+  "genre" : "Combat",
+  "date" : "9 septembre 1996",
+  "video" : "https://www.youtube.com/embed/ISQE0fjPMW8" 
+},
+{
+  "title" : "Daytona USA",
+  "description" : "Daytona USA est un jeu vidéo de course de NASCAR en 3D développé par Sega-AM2 sous la direction de Yū Suzuki, originellement commercialisé par Sega sur borne d'arcade en 1994. Dès 1998, Daytona USA 2 est commercialisé.",  
+  "fabricant" :  "Sega",
+  "console" : "Saturn",
+  "genre" : "Course",
+  "date" : "août 1993",
+  "video" : "https://www.youtube.com/embed/wY6xkJ4RcFU"
+},
+{
+  "title" : "Princess Crown",
+  "description" : "Princess Crown est un jeu de rôle d'action développé par Atlus et publié par Sega qui n'est sorti qu'au Japon. Sorti à l'origine en 1997 pour la Sega Saturn, il a été porté sur la PlayStation Portable en 2005.",  
+  "fabricant" :  "Atlus",
+  "console" : "Saturn",
+  "genre" : "Action-RPG",
+  "date" : " 10 décembre 1997",
+  "video" : "https://www.youtube.com/embed/615BH21bp6E" 
+}]

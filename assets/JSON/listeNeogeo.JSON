@@ -1,0 +1,54 @@
+[{
+  "title" : "Metal Slug",
+  "description" : "Metal Slug est un jeu vidéo de type run and gun développé par Nazca et édité par SNK en 1996 sur Neo-Geo MVS, Neo-Geo AES et Neo-Geo CD. C'est le premier épisode de la série Metal Slug.",  
+  "fabricant" :  "SNK",
+  "console" : "NEO-GEO AES",
+  "genre" : "Shoot'em up",
+  "date" : "18 avril 1996",
+  "video" : "https://www.youtube.com/embed/Wl11J6jq4rI"
+}, 
+{
+  "title" : "Garou: Mark of the Wolves",
+  "description" : "Garou: Mark of the Wolves est un jeu de combat en 2D développé par SNK et sorti sur Neo-Geo MVS et Neo-Geo AES en 1999. Le jeu fut réédité sur Dreamcast et PlayStation 2.",  
+  "fabricant" :  "SNK",
+  "console" : "NEO-GEO AES",
+  "genre" : "combat",
+  "date" : "26 novembre 1999",
+  "video" : "https://www.youtube.com/embed/sNY4r8IFyNA"
+},
+{
+  "title" : "Metal Slug 3",
+  "description" : "Metal Slug 3 est un jeu vidéo du type run and gun développé et édité par SNK en 2000 sur Neo-Geo MVS et Neo-Geo AES. C'est le quatrième épisode de la série Metal Slug, il a été porté sur PlayStation 2 en 2003 et sur Xbox en 2004 Xbox.",  
+  "fabricant" :  "SNK",
+  "console" : "NEO-GEO AES",
+  "genre" : "Shoot'em up",
+  "date" : "23 mars 2000",
+  "video" : "https://www.youtube.com/embed/fNVrVPcstG8"
+},
+{
+  "title" : "Viewpoint",
+  "description" : "Viewpoint est un jeu vidéo de type shoot them up en 3D isométrique sorti en 1992 sur borne d'arcade Neo-Geo MVS et sur console Neo-Geo AES, puis sur Neo-Geo CD en 1995. Le jeu est par la suite porté sur Mega Drive et PlayStation, Saturn, ainsi que sur les systèmes Sharp X68000 et FM Towns.",  
+  "fabricant" :  "Aicom",
+  "console" : "NEO-GEO AES",
+  "genre" : "Shoot'em up",
+  "date" : "1992",
+  "video" : "https://www.youtube.com/embed/sYWDOk5qt0U"
+},
+{
+  "title" : "Soccer Brawl",
+  "description" : "Soccer Brawl est un jeu vidéo de football développé et édité par SNK en 1992 sur Neo-Geo MVS, Neo-Geo AES et en 1995 sur Neo-Geo CD",  
+  "fabricant" :  "SNK",
+  "console" : "NEO-GEO AES",
+  "genre" : "Sport",
+  "date" : "1992",
+  "video" : "https://www.youtube.com/embed/ci-bDYXMkuY"
+},
+{
+  "title" : "Mutation Nation",
+  "description" : "Mutation Nation est un jeu vidéo du type beat them all développé et édité par SNK en 1992 sur Neo-Geo MVS, Neo-Geo AES et en 1995 sur Neo-Geo CD.",  
+  "fabricant" :  "SNK",
+  "console" : "NEO-GEO AES",
+  "genre" : "Beat them all",
+  "date" : "1992",
+  "video" : "https://www.youtube.com/embed/4TENaAsJVJA"
+}]
